@@ -9,3 +9,4 @@ Ver. 1.0
 Written in python, using the tk interface.
 Cross-platform, linux, mac and windows.
 ```
+![alt text](https://i.ibb.co/Lv78hTt/Screenshot-20191022-173749.png)
