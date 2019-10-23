@@ -6,7 +6,7 @@ Ver. 1.0
 ![alt text](https://i.ibb.co/bWg88y9/TSARED-logo-1440-1440.png)
 
 installation docs can be found at:-
-[installation documents](https://raw.githubusercontent.com/TSARSOFT/TSARED/master/install.sh)
+[installation documents](https://github.com/TSARSOFT/TSARED/blob/master/doc/install.md)
 ```
 Written in python, using the tk interface.
 Cross-platform, linux, mac and windows.
