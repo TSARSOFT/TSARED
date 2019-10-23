@@ -2,6 +2,9 @@
 ### TSARSOFT text editor
 
 Ver. 1.0
+```
+TSARED, a simplistic and lightweight (1.8 KB!) text editor, yet is very functional.
+```
 
 ![alt text](https://i.ibb.co/bWg88y9/TSARED-logo-1440-1440.png)
 
