@@ -1,7 +1,8 @@
 # TSARED 
 ### TSARSOFT text editor
 
-Ver. 1.0
+Ver. 1.2 (latest)
+![](https://i.ibb.co/9ZR5RPb/Deepin-Screenshot-select-area-20191023134821.png)
 ```
 TSARED, a simplistic and lightweight (1.8 KB!) text editor, yet is very functional.
 ```
@@ -14,4 +15,4 @@ installation docs can be found at:-
 Written in python, using the tk interface.
 Cross-platform, linux, mac and windows.
 ```
-![alt text](https://i.ibb.co/Lv78hTt/Screenshot-20191022-173749.png)
+![alt text](https://i.ibb.co/9ZR5RPb/Deepin-Screenshot-select-area-20191023134821.png)
