@@ -75,8 +75,6 @@ def runpy():
 root=tkinter.Tk()
 root.title('TSARSOFT Text Editor')
 
-logo=tkinter.PhotoImage(file='./logo.png')
-
 menubar=tkinter.Menu()
 filemen=tkinter.Menu()
 viewmen=tkinter.Menu()
